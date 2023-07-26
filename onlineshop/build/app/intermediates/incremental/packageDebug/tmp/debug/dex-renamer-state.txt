@@ -1,0 +1,4 @@
+#Wed Jul 26 16:25:00 ICT 2023
+base.0=/Users/edriw-ty/Downloads/onlineshop/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
